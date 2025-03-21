@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udg-test-aufgabe/static/css/main.1d312d6c.css",
+    "main.js": "/udg-test-aufgabe/static/js/main.c0e51fed.js",
+    "index.html": "/udg-test-aufgabe/index.html",
+    "main.1d312d6c.css.map": "/udg-test-aufgabe/static/css/main.1d312d6c.css.map",
+    "main.c0e51fed.js.map": "/udg-test-aufgabe/static/js/main.c0e51fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d312d6c.css",
+    "static/js/main.c0e51fed.js"
+  ]
+}
