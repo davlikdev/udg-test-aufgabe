@@ -6,23 +6,28 @@ Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
 - JavaScript / React js
 
-Ich habe mich für jQuery entschieden, weil ...
+Ich habe mich für React entschieden, weil React sehr gut dazu geeignet ist, verschiedene Intarfaces zu entwickeln.
 
 ## Eingesetzte 3rd Party Libraries
 
 - Paparse
-- Material ui
+- Material UI
 - Recharts
 - react router dom
+- UUID 
 
 
-Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein: (falls keine, Tabelle entfernen und begründen warum)
+Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein:
 
 Name | Begründung
 --- | ---
-[moment.js](https://momentjs.com/) | Zur Berechnung von Datumswerten und Umwandlung von Formaten.
-[Bootstrap](https://getbootstrap.com/) | Einfaches RWD Framework zur Gestaltung des Frontends
-
+[Paparse](https://www.papaparse.com/) | Zur Umwandlung von Formaten (CVS zur JSON und JSON zum CVS)
+[Material UI](https://mui.com/) | Bibliothek der vorbereiteten React Komponenten, die Entwicklung des Erscheinungsbildes der App vereinfacht
+[Recharts](https://recharts.org/en-US/) | Ermöglicht verarbeitete Daten graphisch darzustellen
+[react router dom](https://reactrouter.com/) | Eine Bibliothek für die Navigation in React-Apps.
+                                              Sie ermöglicht die Erstellung von Single-Page-Applications (SPAs) mit clientseitigem Routing            
+[UUID](https://www.uuidgenerator.net/) | Generiert für jedes Element in einer Tabelle eine eindeutige id, die wird dann als key verwendet,
+                                         damit React die Elemente korrekt im DOM rendern kann 
 ## Installation / Ausführen des Projektes
 
 Beschreibe, wie wir uns das Projekt lokal anschauen können.
@@ -33,13 +38,12 @@ Zum Beispiel:
 
 Folgende Komponenten müssen lokal installiert sein:
 
-- [nodejs](https://nodejs.org/en/) v13.2.0
-- [.NET Core](https://dotnet.microsoft.com/download) v3.1
+- [nodejs](https://nodejs.org/en/) v22.14.0
 
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-$ git clone <linktorepository> udg-probeaufgabe
+$ git clone <> udg-test-aufgabe
 $ cd udg-probeaufgabe
 $ npm install
 $ npm run start
