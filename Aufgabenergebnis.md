@@ -24,10 +24,8 @@ Name | Begründung
 [Paparse](https://www.papaparse.com/) | Zur Umwandlung von Formaten (CVS zur JSON und JSON zum CVS)
 [Material UI](https://mui.com/) | Bibliothek der vorbereiteten React Komponenten, die Entwicklung des Erscheinungsbildes der App vereinfacht
 [Recharts](https://recharts.org/en-US/) | Ermöglicht verarbeitete Daten graphisch darzustellen
-[react router dom](https://reactrouter.com/) | Eine Bibliothek für die Navigation in React-Apps.
-                                              Sie ermöglicht die Erstellung von Single-Page-Applications (SPAs) mit clientseitigem Routing            
-[UUID](https://www.uuidgenerator.net/) | Generiert für jedes Element in einer Tabelle eine eindeutige id, die wird dann als key verwendet,
-                                         damit React die Elemente korrekt im DOM rendern kann 
+[react router dom](https://reactrouter.com/) | Eine Bibliothek für die Navigation in React-Apps.Sie ermöglicht die Erstellung von Single-Page-Applications (SPAs) mit clientseitigem Routing           
+[UUID](https://www.uuidgenerator.net/) | Generiert für jedes Element in einer Tabelle eine eindeutige id, die wird dann als key verwendet, damit React die Elemente korrekt im DOM rendern kann 
 ## Installation / Ausführen des Projektes
 
 Beschreibe, wie wir uns das Projekt lokal anschauen können.
