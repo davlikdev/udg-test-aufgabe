@@ -41,8 +41,8 @@ Folgende Komponenten müssen lokal installiert sein:
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-$ git clone <> udg-test-aufgabe
-$ cd udg-probeaufgabe
+$ git clone <https://github.com/davlikdev/udg-test-aufgabe> udg-test-aufgabe
+$ cd udg-test-aufgabe
 $ npm install
 $ npm run start
 ```
